@@ -1,5 +1,4 @@
 # hello-world
-My first repository on GitHub
 
 Hi all, my name's Ben and I like math, movies, opera and coding.
 Making this GitHub so you can see what I'm up to. Please,
